@@ -1,4 +1,4 @@
-<图片 width="1900" height="918" alt="202504231051124" src="https://github.com/user-attachments/assets/27a58e14-a928-4f45-9f2e-9241499f9efb" /># 如何开发一套知识付费源码系统？知识付费系统+软件开发 +APc5P小程序h5-ym7k
+# 如何开发一套知识付费源码系统？知识付费系统+软件开发 +APc5P小程序h5-ym7k
 
 获取源码：ym7k.com/11811/如何开发一套知识付费源码系统？ 知识付费系统+软件开/发 +APP小程序h5-ym7k
 
@@ -13,7 +13,7 @@
 系统支持购物车多课程统一结算，订单管理支持查询、详情、支付状态跟踪和退款申请。Redis缓存热门课程价格和库存，订单创建通过Redis分布式锁防止重复下单保证幂等性。缓存键按课程ID和用户ID组合设计避免混淆。规范的多端支付集成、安全回调处理和高效缓存策略构成可靠交易基础设施。![正在上传 2025042310510571.png…]()
 
 
-<图片 width="1934" height="917" alt="2025042310511521" src="https://github.com/user-attachments/assets/3221dddf-f93e-4efb-8e9b-70c315b37d9b" />
+
 <img width="1917" height="924" alt="2025042310510827" src="https://github.com/user-attachments/assets/c82aaea4-deb6-4dd4-ad6a-11c7d1360d0e" />
 <img width="1254" height="906" alt="2025042310510571" src="https://github.com/user-attachments/assets/ce6b96e8-4adc-43f7-8e17-a0874b17b275" />
-![正在上传 202504231051124.png…]()
+
